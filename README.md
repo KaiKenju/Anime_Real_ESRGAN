@@ -2,8 +2,8 @@
 this project to enhance anime video to satifys
 | Input | RealESRGAN |
 |--|--|
-| <img src="./assets/gif/Tesla_animation.gif" alt="c2" width="300"/> | <img src="./assets/gif/Tesla_animation_outx2_v1.gif" alt="g2" width="300"/> |
-<!-- | <img src="./assets/gif/tougenaki.gif" alt="c2" width="650"/> | <img src="./assets/gif/tougenaki_outx2.gif" alt="g2" width="650"/> | -->
+| <img src="./assets/gif/Tesla_animation.gif" alt="c2" width="400"/> | <img src="./assets/gif/Tesla_animation_outx2_v1.gif" alt="g2" width="400"/> |
+| <img src="./assets/gif/tougenaki.gif" alt="c2" width="400"/> | <img src="./assets/gif/tougenaki_outx4.gif" alt="g2" width="400"/> |
 
 
 
