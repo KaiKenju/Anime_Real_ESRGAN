@@ -8,7 +8,7 @@
   > [Tencent ARC Lab](https://arc.tencent.com/en/ai-demos/imgRestore); Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences
 
   <p align="center">
-    <img src="Real-ESRGAN/assets/teaser.jpg">
+    <img src="./assets/img/teaser.jpg">
   </p>
 
 --- 
