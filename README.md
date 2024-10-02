@@ -41,9 +41,9 @@ Practical algorithms for general image/video restoration are aimed to be develop
 - Hardware Accelerators
 
 | Single         | Original Video  Time         | Enhance Video Time| Upscale |
-| ------------- |:-------------:| ---:|---:|
-| **GPU**  | 18s | 2:46s | 4  |
-|  | 18s | 1:44s | 2  |
+| ------------- | ------------- | --- | --- |
+| **GPU**  | 18s | 2:46m | 4  |
+|  | 18s | 1:44m | 2  |
 | **CPU**     | 18s     | >3h | 2 |
 
 
@@ -145,18 +145,13 @@ We have provided five models:
    
 ## Model Comparison
 
-| **Model Name**                      | **Key Features**                                   | **Use Cases**                                |
-|-------------------------------------|---------------------------------------------------|----------------------------------------------|
-| **RealESRGAN-x4plus** (Default)    | - Upscales images by 4x                           | - General image enhancement                   |
-|                                     | - Balances detail and reduces artifacts            | - Suitable for various image types           |
-| **RealESRNet-x4plus**              | - Non-GAN architecture                             | - Fast processing with fewer artifacts        |
-|                                     | - Good for speed-focused applications              |                                              |
-| **RealESRGAN-x4plus-anime**        | - Optimized for anime images                       | - Enhancing and upscaling anime images       |
-|                                     | - Smaller model size                               |                                              |
-| **RealESR-AnimeVideoV3**           | - Designed for anime video upscaling              | - Maintains temporal consistency in videos    |
-|                                     | - Reduces flickering and artifacts                 |                                              |
-| **RealESRGAN_x4plus_anime_6B**     | - Large model with high detail for anime          | - High-quality results for complex scenes     |
-|                                     | - More computationally intensive                   |                                              |
+| **Model Name**                      | **Key Features**                | **Use Cases**                      |
+|-------------------------------------|----------------------------------|------------------------------------|
+| **RealESRGAN-x4plus** (Default)    | - 4x Upscaling ,Detail balance  | - General enhancement , Various image types|
+| **RealESRNet-x4plus**              | - Non-GAN,Fewer artifacts       | - Fast processing                   |
+| **RealESRGAN-x4plus-anime**        | - Anime optimization,Smaller size | - Anime upscaling                  |
+| **RealESR-AnimeVideoV3**           | - Anime video focus,Flicker reduction| - Temporal consistency          |
+| **RealESRGAN_x4plus_anime_6B**     | - High-detail anime, More computationally heavy| - Complex scene enhancement |
 
 
 **Tips**
