@@ -83,8 +83,8 @@ There are usually two ways to inference Real-ESRGAN.
   2. [Python script](#python-script)
    
 ### Online inference
-  1. You can try in [Google Colab](Notebooks\Video_Real_ESRGAN_Inference.ipynb) for anime video (Real-ESRGAN)
-  2. Similar with [Google Colab](Notebooks\Image_Real_ESRGAN_Anime_Inference.ipynb) for anime image (RealESRGAN_x4plus)
+  1. You can try in [Google Colab](./Notebooks/Video_Real_ESRGAN_Inference.ipynb) for anime video (Real-ESRGAN)
+  2. Similar with [Google Colab](./Notebooks/Image_Real_ESRGAN_Anime_Inference.ipynb) for anime image (RealESRGAN_x4plus)
 
 ### Python script
 - With anime video
